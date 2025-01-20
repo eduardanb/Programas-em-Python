@@ -11,4 +11,4 @@ while cont < N:
     b = c
     b = b + 1
     c = c + 2
-    cont = cont + 1
+    cont = cont + 1         
